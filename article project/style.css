@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(199, 227, 255);
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    text-align:justify
+}
+
+a {
+    color: rgb(25, 70, 138);
+    text-decoration: none;
+}
+
+h2 {
+    background-color:rgb(25, 70, 138);
+    position:relative;
+    color:white;
+    margin:0%;
+    padding:10px;
+    font-weight:900;
+    text-align:center
+}
+
+.linky {
+    font-weight: bold;
+    color:rgb(25, 70, 138);
+}
+
+.judul {
+    background-color:rgb(25, 70, 138);
+    position:relative;
+    color:white;
+    margin:0%;
+    padding:10px;
+    font-weight:900;
+    text-align:center
+}
